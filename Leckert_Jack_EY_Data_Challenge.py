@@ -38,7 +38,7 @@ import odc
 import toolz
 from odc.stac import stac_load
 import planetary_computer as pc
-pc.settings.set_subscription_key('8e9b6659b924459a988554b473a6a8e7')
+pc.settings.set_subscription_key('**************')
 
 # Others
 import requests
